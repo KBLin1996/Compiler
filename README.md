@@ -65,4 +65,4 @@ Here are the main purpose of the projects →
     ./a.out
 
 
-**Thanks For Watching !**
+**Thanks For Reading !**
