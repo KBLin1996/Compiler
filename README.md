@@ -14,18 +14,18 @@ The projects will lead you step by step to create your own compiler.
 
 Here are the main purpose of the projects →
 
-● Project 1: Write a "mylexer.g" file to set the tokens (terminals) of your compiler. Input 1, 2, 3 will be the testing files to check the defined tokens.
+**● Project 1:** Write a "mylexer.g" file to set the tokens (terminals) of your compiler. Input 1, 2, 3 will be the testing files to check the defined tokens.
 
 
-● Project 2: Write a "myC.g" file to set the context free gramma (CFG) or so-called nonterminals to your compiler. Input 1, 2, 3 will be the testing files to check the defined rules.
+**● Project 2:** Write a "myC.g" file to set the context free gramma (CFG) or so-called nonterminals to your compiler. Input 1, 2, 3 will be the testing files to check the defined rules.
 
 
-● Project 3: Write a "myC.g" file for setting error preventions to your compiler.
+**● Project 3:** Write a "myC.g" file for setting error preventions to your compiler.
              For instance, "Undefined Veriable", "Type mismatch" and some other careless errors.
              Input 1, 2, 3 will be the testing files to check if the error detection works.
 
 
-● Project 4: Write a "myC.g" to generate x86 code (.s files) for executing C codes on my own compiler.
+**● Project 4:** Write a "myC.g" to generate x86 code (.s files) for executing C codes on my own compiler.
              Input 1, 2, 3 will be the testing files to check if the error detection works.
 
 --------------------------------------------------------------------------------------------------------------------
