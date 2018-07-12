@@ -30,7 +30,7 @@ The projects will lead you step by step to create your own compiler.
 
 --------------------------------------------------------------------------------------------------------------------
 
-**Q: How to Compile?**
+## **Q: How to Compile?**
 
 ● Project 1:
     
@@ -65,4 +65,4 @@ The projects will lead you step by step to create your own compiler.
     ./a.out
 
 
-**Thanks For Reading !**
+### **Thanks For Reading !**
