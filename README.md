@@ -3,7 +3,7 @@ Junior Year/ Second Semester/ Using ANTLR 3.5.2 to generate my own compiler
 
 **ANTLR 3.5.2 Download:** http://www.antlr3.org/download.html
 
-----
+--
 
 Hi there,
 
