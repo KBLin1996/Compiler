@@ -32,9 +32,6 @@ Here are the main purpose of the projects →
 
 **Q: How to Compile?**
 
-
-**Ans: **
-
 ● Project 1:
     
     make
