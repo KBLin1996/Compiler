@@ -43,7 +43,7 @@ Ans:
     java -cp ./antlr-3.5.2-complete.jar:. testLexer input3.c
    
    
-● Project 2: (replace input1.c with input2.c, input3.c)
+● Project 2:
 
      make
      java -cp ./antlr-3.5.2-complete.jar:. myC_test input1.c
@@ -51,7 +51,7 @@ Ans:
      java -cp ./antlr-3.5.2-complete.jar:. myC_test input3.c
 
 
-● Project 3: (replace input1.c with input2.c, input3.c)
+● Project 3:
     
     make
     java -cp ./antlr-3.5.2-complete.jar:. myC_test input1.c
@@ -59,13 +59,11 @@ Ans:
     java -cp ./antlr-3.5.2-complete.jar:. myC_test input3.c
 
 
-● Project 4: (replace input1 with input2, input3)
+● Project 4: (Command "./a.out" each time you "make inputX")
   
     make
     make input1
-    ./a.out
     make input2
-    ./a.out
     make input3
     ./a.out
 
