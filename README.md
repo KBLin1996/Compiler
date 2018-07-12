@@ -28,7 +28,7 @@ The projects will lead you step by step to create your own compiler.
 **● Project 4:** Write a "myC.g" to generate x86 code (.s files) for executing C codes on my own compiler.  
              Input 1, 2, 3 will be the testing files to check if the error detection works.
 
---------------------------------------------------------------------------------------------------------------------
+---
 
 ## **Q: How to Compile?**
 
