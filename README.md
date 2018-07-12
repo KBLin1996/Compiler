@@ -59,7 +59,7 @@ Ans:
     java -cp ./antlr-3.5.2-complete.jar:. myC_test input3.c
 
 
-● Project 4: (Command "./a.out" each time you "make inputX")
+● Project 4:  (command "./a.out" each time you "make inputX")
   
     make
     make input1
