@@ -30,10 +30,10 @@ Here are the main purpose of the projects →
 
 --------------------------------------------------------------------------------------------------------------------
 
-Q: How to Compile?
+**Q: How to Compile?**
 
 
-Ans: 
+**Ans: **
 
 ● Project 1:
     
