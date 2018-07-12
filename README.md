@@ -34,12 +34,14 @@ Q: How to Compile?
 
 Ans: 
 
-● Project 1: 1. make
-	         2. java -cp ./antlr-3.5.2-complete.jar:. testLexer input1.c (replace with input2.c, input3.c)
+● Project 1: 
+1. make
+2. java -cp ./antlr-3.5.2-complete.jar:. testLexer input1.c (replace with input2.c, input3.c)
    
    
-● Project 2: 1. make
-	         2. java -cp ./antlr-3.5.2-complete.jar:. myC_test input1.c (replace with input2.c, input3.c)
+● Project 2:
+1. make
+2. java -cp ./antlr-3.5.2-complete.jar:. myC_test input1.c (replace with input2.c, input3.c)
 
 
 ● Project 3: 1. make
