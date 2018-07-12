@@ -13,7 +13,7 @@ The projects will lead you step by step to create your own compiler.
 ## Here are the main purposes of the projects
 
 **● Project 1:** Write a "mylexer.g" file to set the tokens (terminals) of your compiler.  
-　　Input 1, 2, 3 will be the testing files to check the defined tokens.
+　　　　　Input 1, 2, 3 will be the testing files to check the defined tokens.
 
 
 **● Project 2:** Write a "myC.g" file to set the context free gramma (CFG) or so-called nonterminals to your compiler.  
