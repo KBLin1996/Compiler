@@ -17,7 +17,7 @@ The projects will lead you step by step to create your own compiler.
 
 
 **● Project 2:** Write a "myC.g" file to set the context free gramma (CFG) or so-called nonterminals to your compiler.  
-　　　　　&nbsp;Input 1, 2, 3 will be the testing files to check the defined rules.
+　　　　　&nbsp;&nbsp;Input 1, 2, 3 will be the testing files to check the defined rules.
 
 
 **● Project 3:** Write a "myC.g" file for setting error preventions to your compiler.  
